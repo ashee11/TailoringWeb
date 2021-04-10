@@ -3322,11 +3322,6 @@ hr {
 .founder-img {
   margin-left: -15px;
 }
-
-.founder-img img{
-  height: 100px;
-  weidth: 100[px;
-}
 .testimonial-area .about-caption {
   border-bottom: 1px solid #f2f2f2;
 }
@@ -5991,18 +5986,4 @@ del {
 }
 .switch-wrap {
   margin-bottom: 10px;
-}
-.moving-img-class {
-    width: 80%;
-}
-.hotpicks-title {
-    font-family: "Josefin Sans", sans-serif;
-    color: #101A31;
-    margin-top: 0px;
-    font-style: normal;
-    font-weight: 500;
-    text-transform: normal;
-    margin-left: 4%;
-    font-size: 200%;
-    margin-bottom: 2%;
 }
