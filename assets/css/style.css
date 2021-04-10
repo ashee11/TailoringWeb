@@ -3322,6 +3322,11 @@ hr {
 .founder-img {
   margin-left: -15px;
 }
+
+.founder-img img{
+  heigth: 100px;
+  width: 100px;
+}
 .testimonial-area .about-caption {
   border-bottom: 1px solid #f2f2f2;
 }
